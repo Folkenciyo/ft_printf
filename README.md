@@ -61,10 +61,6 @@ int main(void)
 ```
 En este ejemplo, la función ft_printf imprimirá "Hola, mundo!" en la salida estándar.
 
-### Creating A Pull Request
-
-
-
 ## Autor
 
 * **Juan Guerrero** - *@juguerre - 42Málaga* - [Juan Guerrero](https://github.com/Folkenciyo/)
