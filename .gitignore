@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Files
+main.c
+
+# Executables
+*.out
+
+# Temp files
+*.swp
+
+# GITIGNORE
+#.gitignore
