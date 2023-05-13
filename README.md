@@ -25,13 +25,13 @@ Consiste en crear una función que emule el comportamiento de la función printf
 Especificadores de formato
 La función ft_printf es capaz de manejar los siguientes especificadores de formato:
 
-%c: imprime un carácter.
-%s: imprime una cadena de caracteres.
-%p: imprime un puntero en formato hexadecimal.
-%d o %i: imprime un número entero con signo.
-%u: imprime un número entero sin signo.
-%x: imprime un número entero sin signo en formato hexadecimal (en minúsculas).
-%X: imprime un número entero sin signo en formato hexadecimal (en mayúsculas).
+* %c: imprime un carácter.
+* %s: imprime una cadena de caracteres.
+* %p: imprime un puntero en formato hexadecimal.
+* %d o %i: imprime un número entero con signo.
+* %u: imprime un número entero sin signo.
+* %x: imprime un número entero sin signo en formato hexadecimal (en minúsculas).
+* %X: imprime un número entero sin signo en formato hexadecimal (en mayúsculas).
 
 ## Cómo usar
 
