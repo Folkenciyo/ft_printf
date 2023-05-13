@@ -12,13 +12,13 @@
 
 ## Contenido
 
-* Sobre el proyexto
+* Sobre el proyecto
 * Cómo usar
   * Compilación
 * Uso
 * Autor
 
-## Sobre el proyexto
+## Sobre el proyecto
 
 Consiste en crear una función que emule el comportamiento de la función printf de la biblioteca estándar de C. Esta función deberá ser capaz de manejar una serie de especificadores de formato, como "%s", "%d", "%i", "%x", "%X", entre otros.
 
@@ -37,7 +37,21 @@ La función ft_printf es capaz de manejar los siguientes especificadores de form
 
 ### Compilación
 
-Para compilar el proyecto, deberás utilizar el siguiente comando en la terminal:
+Ejecuta los siguientes comandos:
+
+* Para compilar
+```bash
+make
+```
+* Para eliminar objetos:
+```bash
+make clean
+```
+* Para eliminar objetos y archivos binarios (programa):
+```bash
+make fclean
+```
+* Para recompilar:
 ```bash
 make re
 ```
@@ -64,4 +78,17 @@ En este ejemplo, la función ft_printf imprimirá "Hola, mundo!" en la salida es
 ## Autor
 
 * **Juan Guerrero** - *@juguerre - 42Málaga* - [Juan Guerrero](https://github.com/Folkenciyo/)
+
+### ¿Puedes agregar más funciones a esta biblioteca? ¿Cómo?
+* Haz un fork de este repositorio
+* Clona tu fork del repositorio
+* Contribuye
+* Realiza un push
+* Crea una solicitud de extracción (pull request) en este repositorio
+* ¡Espera a que se fusionen los cambios!
+ ¡Sé feliz! :)
+---
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/portfolio-002?style=for-the-badge&logo=ko-fi&logoColor=white)](https://porfolio-juan-guerrero.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguerrerodeveloper/)
 
