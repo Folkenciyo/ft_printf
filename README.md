@@ -4,7 +4,7 @@
   <p align="center">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/ST-c_1x%20%282%29.png?itok=TJtLSL9K">
  <p align="center">
-    Este es el proyecto ft_printf de la piscina de 42 Málaga. 
+    Este es el proyecto ft_printf del cursus de 42 Málaga. 
     <br/>
     <br/>
   </p>
